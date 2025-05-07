@@ -32,4 +32,4 @@ Note- make sure you don't have a .DS_store file in the clips directory. This can
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-Seth Treiman
+Amori Adefolahan 
